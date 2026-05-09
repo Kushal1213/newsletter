@@ -1,2 +1,2 @@
 # newsletter
-autonomous newsscrapper
+autonomous news scrapper
